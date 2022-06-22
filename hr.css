@@ -1,0 +1,17 @@
+div{
+	width: 100%;
+	height: 400px;
+	background-image: url('Imagenes/H.jpg');
+	text-align: center;
+}
+h2{
+	color: #EC0000;
+	font-family: fantasy;
+	font-size: 40px;
+}
+.t2{
+	margin: auto;
+	font-family: system-ui;
+	color: white;
+	background-image: url('Imagenes/y.jpg');
+}
